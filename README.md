@@ -1,4 +1,4 @@
-# NLP
+# Natural Language Processing (NLP)
 Natural Language Processing (NLP) is a field of artificial intelligence (AI) that focuses on the interaction between computers and human languages. The goal of NLP is to enable computers to understand, interpret, and generate human-like language in a way that is both meaningful and contextually relevant. NLP involves the development of computational models and algorithms that can process and analyze large amounts of natural language data.
 
 Key components and tasks within NLP include:
@@ -26,3 +26,7 @@ Coreference Resolution: Identifying when different words or phrases in a text re
 NLP is a multidisciplinary field that draws on techniques from linguistics, computer science, and machine learning. It plays a crucial role in various applications, including chatbots, virtual assistants, language translation, sentiment analysis, and information retrieval. Advances in NLP have been driven by the development of sophisticated algorithms, large datasets, and deep learning techniques.
 
 Within this repository, I've incorporated the utilization of NLP applications using Python.
+
+
+
+<a href="https://github.com/burcuozek/NLP/blob/main/NLPBasic.ipynb">NLPBasic.ipynb</a> file introduces Python functions for implementing Natural Language Processing (NLP) techniques, including Chunking, Chinking, Named Entity Recognition (NER), and data analysis using Frequency Distribution and Collocation detection.
